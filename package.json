@@ -1,0 +1,23 @@
+{
+  "name": "dream-hunters-discord-bot",
+  "version": "1.0.0",
+  "description": "A feature-rich Discord bot for Dream Hunters community with currency, spirits, and hunting mechanics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "setup": "node setup.js"
+  },
+  "keywords": ["discord", "bot", "gaming", "currency", "spirits"],
+  "author": "Dream Hunters Team",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.6",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
