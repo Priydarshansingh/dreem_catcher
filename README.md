@@ -159,7 +159,7 @@ For setup help or questions:
 ---
 ## 👤 About the Developer
 
-- **GitHub:** [@livehellboy](https://github.com/livehellboy)
+- (hellboy)
 - **Instagram:** [@livehellboy](https://instagram.com/livehellboy)
 - **Discord Community:** [Join our server!](https://discord.gg/ndNQFPCR66)
 
