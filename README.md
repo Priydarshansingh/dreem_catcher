@@ -157,7 +157,12 @@ For setup help or questions:
 - Verify environment variables are set correctly
 
 ---
+## 👤 About the Developer
 
-**Made with 💜 for Discord gaming communities**
+- **GitHub:** [@livehellboy](https://github.com/livehellboy)
+- **Instagram:** [@livehellboy](https://instagram.com/livehellboy)
+- **Discord Community:** [Join our server!](https://discord.gg/ndNQFPCR66)
+
+**Made with 💜 for Discord gaming communities (heᒪᒪ χ  Sports)**
 
 *Happy dream hunting! 🌙✨*
